@@ -1,0 +1,6 @@
+The goals of this PA are:
+Practice programming a DFA you designed in PA2 in C
+Practice in writing a simple C utility program
+Practice in using C character I/O and fprintf
+Practice in adapting a test harness to work with code you wrote
+Modifying a Makefile and using make to control separate compilation

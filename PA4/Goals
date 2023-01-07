@@ -1,0 +1,6 @@
+The goals of PA4 are:
+To get practice writing code using C pointers, strings, arrays of pointers to strings, and working with command line options (argv)
+Learn about Delimiter-Separated-Values (also known as DSV) data format (a generalized version of Comma-Separated-Values or CSV files).
+See an example of real data, the  New York City Traffic Ticket data (in CSV format) that we use with the in-memory database assignment in PA6 and PA7
+Practice with C library routines for reading lines of text and converting strings to integer values
+Learn to modify code you did not write (something you will do a whole lot of when you graduate). Practice figuring out someone else's code and "fixing or finishing it".

@@ -1,0 +1,4 @@
+PA8 is the first part of a two part project where you will be working on a program called cipher. Cipher is a file encryption/decryption program that uses a variation of what is called a book cipher. Cipher will both encrypt and decrypt any type of file (text and binary) using a combination of per byte bit manipulation (using bitwise operations) and an exclusive or (EOR in arm ^ in C) encoding using sequence of bytes from a book file (traditionally a real book, but it can be any text or binary file).
+cipher reads the file to be processed from standard input, either encrypts or decrypts the file, and then writes the result to standard output. Cipher has two required arguments:
+A flag that specifies on of either  encrypt (-e) or decrypt (-d) operational mode
+A flag -b  <filename> that specifies the name of the book file that contains the encoding keys

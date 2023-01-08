@@ -1,0 +1,13 @@
+./extract: drop line 1, quoted field not terminated
+./extract: drop line 2, " in unquoted field
+./extract: drop line 3, " in unquoted field
+./extract: drop line 4, quoted field not terminated
+./extract: drop line 6, quoted field not terminated
+./extract: drop line 7, quoted field not terminated
+./extract: drop line 8, quoted field not terminated
+./extract: drop line 9, " in unquoted field
+./extract: drop line 10, quoted field not terminated
+./extract: drop line 16, " in unquoted field
+./extract: drop line 17, quoted field not terminated
+./extract: drop line 18, quoted field not terminated
+./extract: 18 records input, 12 dropped

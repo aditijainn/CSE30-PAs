@@ -1,0 +1,18 @@
+./extract: drop line 1, too few columns
+./extract: drop line 2, too few columns
+./extract: drop line 3, too few columns
+./extract: drop line 4, too few columns
+./extract: drop line 5, too many columns
+./extract: drop line 6, too many columns
+./extract: drop line 7, too many columns
+./extract: drop line 8, too few columns
+./extract: drop line 9, too many columns
+./extract: drop line 10, quoted field not terminated
+./extract: drop line 11, quoted field not terminated
+./extract: drop line 12, quoted field not terminated
+./extract: drop line 13, " in unquoted field
+./extract: drop line 14, " in unquoted field
+./extract: drop line 15, " in unquoted field
+./extract: drop line 16, quoted field not terminated
+./extract: drop line 17, quoted field not terminated
+./extract: 17 records input, 17 dropped

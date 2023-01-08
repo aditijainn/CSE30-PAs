@@ -1,0 +1,2 @@
+#!/bin/bash
+./cipher -e -b in/SHORTBOOK

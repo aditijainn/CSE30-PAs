@@ -1,0 +1,2 @@
+#!/bin/bash
+./parking -s -t3 -f in/Fines.csv -d in/Small.csv

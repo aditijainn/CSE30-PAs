@@ -1,0 +1,229 @@
+Command: V
+
+Total vehicles in database: 363869
+Total tickets in database: 500000
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721975
+Command: L
+
+Most tickets Plate: 2731063, State: IN tickets: 52, total fine: $4930
+Largest fine Plate: 2731063, State: IN tickets: 52, total fine: $4930
+Command: f 2731063 IN
+
+   Plate: 2731063, State: IN, Tickets: 52, Total: $4930
+      Ticket 0001 Summons #: 1437587719 Date: 06/14/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0002 Summons #: 1438358921 Date: 06/19/2018 Fine Code: 46 Description: $115 DOUBLE PARKING
+      Ticket 0003 Summons #: 1440115485 Date: 06/21/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0004 Summons #: 1441802903 Date: 07/05/2018 Fine Code: 40 Description: $115 FIRE HYDRANT
+      Ticket 0005 Summons #: 1441810754 Date: 06/29/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0006 Summons #: 1441810766 Date: 06/29/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0007 Summons #: 8476586577 Date: 07/12/2018 Fine Code: 82 Description: $115 COMML PLATES-UNALTERED VEHICLE
+      Ticket 0008 Summons #: 8476586590 Date: 07/12/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0009 Summons #: 8476587880 Date: 07/19/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0010 Summons #: 8476587892 Date: 07/19/2018 Fine Code: 82 Description: $115 COMML PLATES-UNALTERED VEHICLE
+      Ticket 0011 Summons #: 8476587958 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0012 Summons #: 8476609838 Date: 07/12/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0013 Summons #: 8479990030 Date: 07/17/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0014 Summons #: 8480944559 Date: 07/19/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0015 Summons #: 8480944560 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0016 Summons #: 8484476108 Date: 06/27/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0017 Summons #: 8484591116 Date: 07/19/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0018 Summons #: 8484591128 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0019 Summons #: 8485746740 Date: 07/13/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0020 Summons #: 8485746752 Date: 07/13/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0021 Summons #: 8486321372 Date: 06/28/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0022 Summons #: 8486321384 Date: 06/28/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0023 Summons #: 8495173748 Date: 07/03/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0024 Summons #: 8495173750 Date: 07/03/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0025 Summons #: 8495175472 Date: 07/13/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0026 Summons #: 8495175484 Date: 07/13/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0027 Summons #: 8495176348 Date: 07/17/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0028 Summons #: 8495176350 Date: 07/17/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0029 Summons #: 8496445422 Date: 07/10/2018 Fine Code: 48 Description: $115 BIKE LANE
+      Ticket 0030 Summons #: 8496445434 Date: 07/10/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0031 Summons #: 8496446165 Date: 07/20/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0032 Summons #: 8496446177 Date: 07/20/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0033 Summons #: 8496877061 Date: 07/05/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0034 Summons #: 8496877073 Date: 07/05/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0035 Summons #: 8496878132 Date: 07/11/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0036 Summons #: 8496878429 Date: 07/12/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0037 Summons #: 8496878430 Date: 07/12/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0038 Summons #: 8496878922 Date: 07/24/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0039 Summons #: 8496878934 Date: 07/24/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0040 Summons #: 8497193040 Date: 07/16/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0041 Summons #: 8497193052 Date: 07/16/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0042 Summons #: 8497194070 Date: 07/23/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0043 Summons #: 8497194081 Date: 07/23/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0044 Summons #: 8498567750 Date: 07/06/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0045 Summons #: 8498946608 Date: 07/16/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0046 Summons #: 8498946610 Date: 07/16/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0047 Summons #: 8499142102 Date: 07/10/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0048 Summons #: 8499142667 Date: 07/24/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0049 Summons #: 8499142679 Date: 07/24/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0050 Summons #: 8500509673 Date: 06/27/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0051 Summons #: 8501958529 Date: 07/24/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0052 Summons #: 8501958530 Date: 07/24/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+Command: p 2731063 IN 8496445422
+
+Plate: 2731063, State IN, Summons 8496445422 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499999
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721860
+Command: p 2731063 IN 8496877061
+
+Plate: 2731063, State IN, Summons 8496877061 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499998
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721745
+Command: p 2731063 IN 8480944559
+
+Plate: 2731063, State IN, Summons 8480944559 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499997
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721630
+Command: p 2731063 IN 8499142667
+
+Plate: 2731063, State IN, Summons 8499142667 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499996
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721565
+Command: p 2731063 IN 8497193052
+
+Plate: 2731063, State IN, Summons 8497193052 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499995
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721500
+Command: p 2731063 IN 8486321384
+
+Plate: 2731063, State IN, Summons 8486321384 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499994
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721435
+Command: p 2731063 IN 8496878934
+
+Plate: 2731063, State IN, Summons 8496878934 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499993
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721370
+Command: p 2731063 IN 8495176348
+
+Plate: 2731063, State IN, Summons 8495176348 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499992
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721255
+Command: s 1437587719
+
+   Plate: 2731063, State: IN, Tickets: 44, Total: $4210
+      Ticket 0001 Summons #: 1437587719 Date: 06/14/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0002 Summons #: 1438358921 Date: 06/19/2018 Fine Code: 46 Description: $115 DOUBLE PARKING
+      Ticket 0003 Summons #: 1440115485 Date: 06/21/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0004 Summons #: 1441802903 Date: 07/05/2018 Fine Code: 40 Description: $115 FIRE HYDRANT
+      Ticket 0005 Summons #: 1441810754 Date: 06/29/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0006 Summons #: 1441810766 Date: 06/29/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0007 Summons #: 8476586577 Date: 07/12/2018 Fine Code: 82 Description: $115 COMML PLATES-UNALTERED VEHICLE
+      Ticket 0008 Summons #: 8476586590 Date: 07/12/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0009 Summons #: 8476587880 Date: 07/19/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0010 Summons #: 8476587892 Date: 07/19/2018 Fine Code: 82 Description: $115 COMML PLATES-UNALTERED VEHICLE
+      Ticket 0011 Summons #: 8476587958 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0012 Summons #: 8476609838 Date: 07/12/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0013 Summons #: 8479990030 Date: 07/17/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0014 Summons #: 8480944560 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0015 Summons #: 8484476108 Date: 06/27/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0016 Summons #: 8484591116 Date: 07/19/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0017 Summons #: 8484591128 Date: 07/19/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0018 Summons #: 8485746740 Date: 07/13/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0019 Summons #: 8485746752 Date: 07/13/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0020 Summons #: 8486321372 Date: 06/28/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0021 Summons #: 8495173748 Date: 07/03/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0022 Summons #: 8495173750 Date: 07/03/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0023 Summons #: 8495175472 Date: 07/13/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0024 Summons #: 8495175484 Date: 07/13/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0025 Summons #: 8495176350 Date: 07/17/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0026 Summons #: 8496445434 Date: 07/10/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0027 Summons #: 8496446165 Date: 07/20/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0028 Summons #: 8496446177 Date: 07/20/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0029 Summons #: 8496877073 Date: 07/05/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0030 Summons #: 8496878132 Date: 07/11/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0031 Summons #: 8496878429 Date: 07/12/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0032 Summons #: 8496878430 Date: 07/12/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0033 Summons #: 8496878922 Date: 07/24/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0034 Summons #: 8497193040 Date: 07/16/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0035 Summons #: 8497194070 Date: 07/23/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0036 Summons #: 8497194081 Date: 07/23/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0037 Summons #: 8498567750 Date: 07/06/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0038 Summons #: 8498946608 Date: 07/16/2018 Fine Code: 14 Description: $115 NO STANDING-DAY/TIME LIMITS
+      Ticket 0039 Summons #: 8498946610 Date: 07/16/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0040 Summons #: 8499142102 Date: 07/10/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+      Ticket 0041 Summons #: 8499142679 Date: 07/24/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0042 Summons #: 8500509673 Date: 06/27/2018 Fine Code: 19 Description: $115 NO STANDING-BUS STOP
+      Ticket 0043 Summons #: 8501958529 Date: 07/24/2018 Fine Code: 47 Description: $115 DOUBLE PARKING-MIDTOWN COMML
+      Ticket 0044 Summons #: 8501958530 Date: 07/24/2018 Fine Code: 84 Description: $ 65 PLTFRM LFTS LWRD POS COMM VEH
+Command: p 2731063 IN 1437587719
+
+Plate: 2731063, State IN, Summons 1437587719 paid
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499991
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721140
+Command: p 2731063 IN 8476586590
+
+Plate: 2731063, State IN, Summons 8476586590 paid
+Command: s 8476586590
+
+   Summons: 8476586590
+      Not found!
+Command: s 8520534030
+
+   Plate: 98591JX, State: NY, Tickets: 2, Total: $180
+      Ticket 0001 Summons #: 1440873215 Date: 06/28/2018 Fine Code: 21 Description: $ 65 NO PARKING-STREET CLEANING
+      Ticket 0002 Summons #: 8520534030 Date: 07/13/2018 Fine Code: 46 Description: $115 DOUBLE PARKING
+Command: l
+
+Most tickets Plate: 2028685, State: IN tickets: 43, total fine: $3755
+Largest fine Plate: 16213TC, State: NY tickets: 37, total fine: $4135
+Command: v
+
+Total vehicles in database: 363869
+Total tickets in database: 499990
+Longest hash chain in database index number: 7803 Length: 71
+Shortest hash chain in database index number: 3969 Length: 24
+Total of all unpaid fines in the database: $37721025
+Command: q
+
+Total tickets freed: 499990

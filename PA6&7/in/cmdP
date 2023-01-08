@@ -1,0 +1,2 @@
+#!/bin/bash
+time ./parking -s -t409 -f in/Fines.csv -d in/Large.csv

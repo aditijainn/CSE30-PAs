@@ -1,0 +1,9 @@
+PA6 is the first part of a two part project where you will be working on an in-memory parking ticket database. The data we are using is actual data summons (ticket) data extracted from the New York City summons database for the fiscal year 2018 (~July 2018 to ~June 2019). In PA6 you will be writing four routines to replace ones provided with the starter code. In PA7 you will be writing two more. 
+Practice in writing data structures in C using pointers combined with self-referential structures
+Basic memory runtime memory allocation and deallocation with malloc() and free().
+Using the linux tool valgrind to test if your use of malloc() and free() is correct.
+Working with hash table chains and 2-dimensional linked lists.
+Writing code to traverse every record in a database to find a specific entry
+Writing code to use a hash function to find a specific entry in the database
+Practice doing incremental code development in the context of a fully operational program (something you will do a whole lot of when you graduate), by writing replacement routines for existing ones.
+

@@ -1,0 +1,15 @@
+The goals of PA5 are:
+Additional practice writing code using C pointers, strings, arrays of pointers to strings
+working with command line options using getopt() (library function)
+Basic memory runtime memory allocation and deallocation with malloc() and free().
+Using the linux tool valgrind to test if your use of malloc() and free() is correct.
+More practice with modifying code you did not write (something you will do a whole lot of when you graduate).
+
+In Part 1: you will use the code you wrote in PA4 (main.c and token.c) and add support for quoted data fields in token() with no change to your main.c.
+
+ In Part 2: you will write a new main() routine (from starter code) and add a new function wrtrow() in the file wrtrow.c. The following functionality will be added:
+Add the ability to process different field separator characters (other than the ,) on the input file.
+Implement data reformatting operations to output a new DSV file based on the data contained in each data record in the input DSV file. 
+The program will be able to select a subset (from 1 to  all) of the input data fields to output
+The program will be able to output these selected input data fields in any order (and duplicate input fields in the output as well)
+The program will be able to specify a different field separator character in the output DSV ( comma , is the default). 
